@@ -111,7 +111,7 @@ Through this project, I gained practical experience in:
 
 - [Before Modeling](Before_modeling.png)
 - [After Modeling](After_modeling.png)
-- [Power BI Project](Data%20Modelling%20Project.pbix)
+- [Power BI Project](Data%20Modeling%20Project.pbix)
 
 ---
 
